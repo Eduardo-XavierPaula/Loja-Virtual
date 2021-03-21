@@ -6,6 +6,6 @@ A new Flutter project.
 
 Imagem das principais telas
 
-![img](/screenshoots/Screenshot_01.png?raw=true "Foto 1")
+![img](/screenshots/Screenshot_01.png?raw=true "Foto 1")
 
-![img](/screenshoots/Screenshot_02.png?raw=true "Foto 2")
+![img](/screenshots/Screenshot_02.png?raw=true "Foto 2")
